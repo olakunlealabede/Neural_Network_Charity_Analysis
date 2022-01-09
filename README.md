@@ -10,7 +10,7 @@ Knowledge of TensorFlow will be used to design a neural network or deep learning
 ![image](https://user-images.githubusercontent.com/89113627/148703609-b86f85a5-0597-4d80-a498-da4fa8c81475.png)
 
 # Deliverable 3: Optimize the Model
-Using knowledge of TensorFlow, optimize the model in order to achieve a target predictive accuracy higher than 75%. If one can't achieve an accuracy higher than 75%, one will need to make at least three attempts to do so. The performance metric is shown below:
+Using knowledge of TensorFlow, optimize the model in order to achieve a target predictive accuracy higher than 75%. If one can't achieve an accuracy higher than 75%, one will need to make at least three attempts to do so. The performance metrics is shown below:
 ![image](https://user-images.githubusercontent.com/89113627/148703859-1d701dc3-82ca-4953-81a1-60d76a93bd98.png)
 
 # Summary
